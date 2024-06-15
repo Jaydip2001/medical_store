@@ -2,11 +2,10 @@
 online medical store 
 
 <br>
-how to look like
-![Screenshot (41)](https://github.com/Jaydip2001/medical_store/assets/77044222/1544c667-bb6e-4187-86e5-08565f29de96)
+how to look like <br>
 
 ![Screenshot (43)](https://github.com/Jaydip2001/medical_store/assets/77044222/a81f8612-e8c9-4d31-98e2-b3eb40921e1c)
-<br>
+
 ![Screenshot (44)](https://github.com/Jaydip2001/medical_store/assets/77044222/70be95e2-144a-4e61-a95b-8175691aaadd)
 <br>
 ![Screenshot (45)](https://github.com/Jaydip2001/medical_store/assets/77044222/6bee0d4b-ebf8-4843-8821-3812b5d747fe)
